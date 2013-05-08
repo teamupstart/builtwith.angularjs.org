@@ -1,5 +1,5 @@
 {
-  "featured": "YouTube on PS3",
+  "featured": "Upstart",
   "projects": [
     {
       "name": "Shortkeys for Chrome",
@@ -1505,6 +1505,23 @@
         "Local Storage",
         "CSS3",
         "Mobile",
+        "jQuery"
+      ]
+    },
+    {
+      "name": "Upstart",
+      "thumb": "upstart/thumb.jpg",
+      "desc": "Browse page featuring real-time search and complex filtering (inter-category unions of intra-category intersections) with item counts.",
+      "url": "https://www.upstart.com/upstarts?counts",
+      "submitter": "teamupstart",
+      "submissionDate": "2013-05-08",
+      "tags": [
+        "Production",
+        "Filters",
+        "Search",
+        "Bootstrap",
+        "HTML5",
+        "CSS3",
         "jQuery"
       ]
     }
